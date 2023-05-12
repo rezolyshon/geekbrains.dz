@@ -87,8 +87,3 @@ git blame README.md --date=short -L 5,8 # показать строки 5-8 ук
 ## Ссылки
 
 [Докуметация GitHub о постоянных ссылках](https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
-## Таблици
-
-## Цитаты
-
-## Заключение
